@@ -40,3 +40,6 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
+## Deployed Page
+https://lexi-scott.github.io/Module-3-Challenge/ 
+
